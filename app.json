@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/webview/webview"
+  ],
+  "plugins": {
+    "myPlugin": {
+      "version": "*",
+      "provider": "2019120769656826"
+    }
+  },
+  "window": {
+    "transparentTitle": "always",
+    "titlePenetrate": true,
+    "backgroundImageColor": "#3264C5"
+  }
+}

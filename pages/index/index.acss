@@ -1,0 +1,11 @@
+/* API-DEMO page/component/canvas/canvas.acss */
+.canvas-view {
+  display: flex;
+  justify-content: center;
+}
+
+.canvas {
+  width: 305px;
+  height: 305px;
+  background-color: #fff;
+}

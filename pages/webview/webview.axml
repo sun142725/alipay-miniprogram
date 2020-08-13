@@ -1,0 +1,4 @@
+<view>
+  <web-view src="https://sit-h5patient.elephantdr.com/home/homeContent?logontype=sessionToken&sessionToken=322BEFE3C5D44406B2A2BFB80ACF09B6
+&unionType=13&channelCode=10002&accessMode=ZFB" id="web-view" onMessage="onmessage"></web-view>
+</view>

@@ -1,0 +1,19 @@
+<view>
+  <view class="page">
+  <view class="canvas-view">
+    <canvas 
+      id="canvas"
+      width="610"
+      height="610"
+      class="canvas"
+      onTouchStart="log"
+      onTouchMove="log"
+      onTouchEnd="log"
+    />
+  </view>
+</view>
+<button class="canvas-button" type="primary" onTap="toTempFilePath">toTempFilePath</button>
+<button class="canvas-button" type="primary" onTap="getUserInfo">获取用户信息</button>
+<button class="canvas-button" type="primary" onTap="toWebview">打开webview</button>
+<image mode="scaleToFill" src="{{imgUrl}}"/>
+</view>

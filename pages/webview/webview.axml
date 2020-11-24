@@ -1,4 +1,4 @@
 <view>
-  <web-view src="https://sit-h5patient.elephantdr.com/home/homeContent?logontype=sessionToken&sessionToken=322BEFE3C5D44406B2A2BFB80ACF09B6
+  <web-view src="https://h5patient.elephantdr.com/home/homeContent?logontype=sessionToken&sessionToken=B62FBD1D3BBC44C38775C215753B23A3
 &unionType=13&channelCode=10002&accessMode=ZFB" id="web-view" onMessage="onmessage"></web-view>
 </view>

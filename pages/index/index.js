@@ -80,7 +80,7 @@ Page({
           console.info(authcode);
           
           my.request({
-            url: 'http://192.168.1.164:3000/get_alipay_auth?code='+authcode.authCode,
+            url: 'http://47.93.206.48:3000/get_alipay_auth?code='+authcode.authCode,
             method: 'GET',
             dataType: 'json',
             success: (resp) => {
